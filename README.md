@@ -22,7 +22,16 @@
 - The-complete-aspnet-mvc-5-course 👉 <strong>Mosh</strong>
 - [ASP.NET Core Fundamentals 👉 <strong>Scott Allen</strong>](https://app.pluralsight.com/library/courses/aspnet-core-fundamentals/table-of-contents)
 - [Building Web Applications with ASP.NET Core MVC 👉 <strong>Gill Cleeren</strong>](https://app.pluralsight.com/library/courses/building-aspdotnet-core-mvc-web-applications/table-of-contents)
+- 
 ## Learn JavaScript basics
+- JavaScript Basics for Beginners 👉 <strong>Mosh</strong> 
+- [JavaScript 2021 from zero to hero 👉 <strong>Osama Elzero</strong>](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) 
+- [Simplifying JavaScript: A Handy Guide for Software Engineers 👉 <strong>Educative</strong>](https://www.educative.io/courses/simplifying-javascript-handy-guide)
+- [Complete JavaScript Course: Build a Real World App from Scratch 👉 <strong>Educative</strong>](https://www.educative.io/courses/the-complete-javascript-course-build-a-real-world-app-from-scratch)
+- [Intermediate JavaScript: Building Frontend Components 👉 <strong>Educative</strong>](https://www.educative.io/courses/intermediate-javascript)
+- [The Complete Guide to Modern JavaScript 👉 <strong>Educative</strong>](https://www.educative.io/courses/complete-guide-to-modern-javascript)
+- [JavaScript Fundamentals Before Learning React 👉 <strong>Educative</strong>](https://www.educative.io/courses/javascript-fundamentals-before-learning-react)
+- [Learn Object-Oriented Programming in JavaScript 👉 <strong>Educative</strong>](https://www.educative.io/courses/learn-object-oriented-programming-in-javascript)
 ## Learn Front-end framework
 ## Become a full-stack .Net developer  
 ## Learn Clean Architecture 
