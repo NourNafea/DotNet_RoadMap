@@ -10,6 +10,11 @@
 - [Read OOP fundamentals from educative](https://www.educative.io/courses/learn-object-oriented-programming-in-c-sharp)
 
 ## Learn SQL basics 
+- Code With Mosh - Complete SQL Mastery 👉 <strong>Mosh</strong>
+- [Read articles about SQL from W3schools](https://www.w3schools.com/sql/sql_intro.asp)
+- [An Introductory Guide to SQL from Educative](https://www.educative.io/courses/introductory-guide-to-sql)
+- [Book about SQL from goalkicker](https://goalkicker.com/SQLBook/)
+
 ## Learn Entity Framework Core 
 ## Learn ASP.net Core MVC
 ## Learn JavaScript basics
