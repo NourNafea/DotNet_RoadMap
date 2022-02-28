@@ -1,4 +1,4 @@
-# .Net RoadMap 🚀
+# .Net Roadmap 🚀
 ## Learn C# Basics
 - C# Basics for Beginners Learn C# Fundamentals by Coding 👉 <strong>Mosh</strong>
 - C# Intermediate Classes, Interfaces and OOP 👉 <strong>Mosh</strong>
