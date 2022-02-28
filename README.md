@@ -10,13 +10,16 @@
 - [Read OOP fundamentals from educative](https://www.educative.io/courses/learn-object-oriented-programming-in-c-sharp)
 
 ## Learn SQL basics 
+- Code With Mosh - Complete SQL Mastery 👉 <strong>Mosh</strong>
 - [Read articles about SQL from W3schools](https://www.w3schools.com/sql/sql_intro.asp)
 - [An Introductory Guide to SQL from Educative](https://www.educative.io/courses/introductory-guide-to-sql)
 - [Book about SQL from goalkicker](https://goalkicker.com/SQLBook/)
 
 ## Learn Entity Framework Core 
-- Code With Mosh - Complete SQL Mastery 👉 <strong>Mosh</strong>
 ## Learn ASP.net Core MVC
+- The-complete-aspnet-mvc-5-course 👉 <strong>Mosh</strong>
+- [ASP.NET Core Fundamentals 👉 <strong>Scott Allen</strong>](https://app.pluralsight.com/library/courses/aspnet-core-fundamentals/table-of-contents)
+- [Building Web Applications with ASP.NET Core MVC 👉 <strong>Gill Cleeren</strong>](https://app.pluralsight.com/library/courses/building-aspdotnet-core-mvc-web-applications/table-of-contents)
 ## Learn JavaScript basics
 ## Learn Front-end framework
 ## Become a full-stack .Net developer  
