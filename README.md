@@ -15,13 +15,18 @@
 - [Read articles about SQL from W3schools](https://www.w3schools.com/sql/sql_intro.asp)
 - [An Introductory Guide to SQL from Educative](https://www.educative.io/courses/introductory-guide-to-sql)
 - [Book about SQL from goalkicker](https://goalkicker.com/SQLBook/)
+- [Metigator | عصام عبدالنبي](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
 
 ## Learn Entity Framework Core 
 - Entity-framework-tutorial 👉 <strong>Mosh</strong>
+- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
 ## Learn ASP.net Core MVC
 - The-complete-aspnet-mvc-5-course 👉 <strong>Mosh</strong>
 - [ASP.NET Core Fundamentals 👉 <strong>Scott Allen</strong>](https://app.pluralsight.com/library/courses/aspnet-core-fundamentals/table-of-contents)
 - [Building Web Applications with ASP.NET Core MVC 👉 <strong>Gill Cleeren</strong>](https://app.pluralsight.com/library/courses/building-aspdotnet-core-mvc-web-applications/table-of-contents)
+
+## API 
+- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-c_yZ0a7Yui1U22Tv4mBjSF)
 - 
 ## Learn JavaScript basics
 - JavaScript Basics for Beginners 👉 <strong>Mosh</strong> 
