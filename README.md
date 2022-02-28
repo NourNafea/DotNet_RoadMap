@@ -37,6 +37,7 @@
 - [JavaScript Fundamentals Before Learning React 👉 <strong>Educative</strong>](https://www.educative.io/courses/javascript-fundamentals-before-learning-react)
 - [Learn Object-Oriented Programming in JavaScript 👉 <strong>Educative</strong>](https://www.educative.io/courses/learn-object-oriented-programming-in-javascript)
 ## Learn Front-end framework
+- Angular The Complete Guide 👉 <strong>Max<strong>
 ## Become a full-stack .Net developer  
 -  Pluralsight - Become a Full-stack .NET Developer - Beginner 👉 <strong>Mosh</strong> 
 -  Pluralsight - Become a Full-stack .NET Developer - Advanced Topics  👉 <strong>Mosh</strong> 
