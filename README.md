@@ -4,8 +4,8 @@
 - C# Intermediate Classes, Interfaces and OOP 👉 <strong>Mosh</strong>
 - C# Advanced Topics - Take Your C# Skills to the Next Level 👉 <strong>Mosh</strong> 
 - [Book about C#](https://goalkicker.com/CSharpBook/)
-- [Book about C#](https://eg1lib.org/book/18091064/d6928c)
-- [Book about C#](https://eg1lib.org/book/19175116/198a48)
+- [Packet C# 10 and .NET 6](https://eg1lib.org/book/18091064/d6928c)
+- [C# 10 in a Nutshell](https://eg1lib.org/book/19175116/198a48)
 - [Read C# fundamentals from educative](https://www.educative.io/courses/c-sharp-for-programmers-a-practical-guide)
 - [Read OOP fundamentals from educative](https://www.educative.io/courses/learn-object-oriented-programming-in-c-sharp)
 
