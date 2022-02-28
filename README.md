@@ -3,6 +3,7 @@
 - C# Basics for Beginners Learn C# Fundamentals by Coding 👉 <strong>Mosh</strong>
 - C# Intermediate Classes, Interfaces and OOP 👉 <strong>Mosh</strong>
 - C# Advanced Topics - Take Your C# Skills to the Next Level 👉 <strong>Mosh</strong> 
+- [c# playlist](https://youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 - [Book about C#](https://goalkicker.com/CSharpBook/)
 - [Packet C# 10 and .NET 6](https://eg1lib.org/book/18091064/d6928c)
 - [C# 10 in a Nutshell](https://eg1lib.org/book/19175116/198a48)
@@ -24,3 +25,4 @@
 ## Learn Front-end framework
 ## Become a full-stack .Net developer  
 ## Learn Clean Architecture 
+
