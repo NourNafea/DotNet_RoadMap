@@ -15,7 +15,7 @@
 - [Read articles about SQL from W3schools](https://www.w3schools.com/sql/sql_intro.asp)
 - [An Introductory Guide to SQL from Educative](https://www.educative.io/courses/introductory-guide-to-sql)
 - [Book about SQL from goalkicker](https://goalkicker.com/SQLBook/)
-- [Metigator Issam.A](ttps://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
+- [Metigator Issam.A](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
 
 ## Learn Entity Framework Core 
 - Entity-framework-tutorial 👉 <strong>Mosh</strong>
