@@ -21,13 +21,12 @@
 - Entity-framework-tutorial 👉 <strong>Mosh</strong>
 - [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
 ## Learn ASP.net Core MVC
-- The-complete-aspnet-mvc-5-course 👉 <strong>Mosh</strong>
+- The complete aspnet mvc 5 course 👉 <strong>Mosh</strong>
 - [ASP.NET Core Fundamentals 👉 <strong>Scott Allen</strong>](https://app.pluralsight.com/library/courses/aspnet-core-fundamentals/table-of-contents)
 - [Building Web Applications with ASP.NET Core MVC 👉 <strong>Gill Cleeren</strong>](https://app.pluralsight.com/library/courses/building-aspdotnet-core-mvc-web-applications/table-of-contents)
 
 ## API 
 - [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-c_yZ0a7Yui1U22Tv4mBjSF)
-- 
 ## Learn JavaScript basics
 - JavaScript Basics for Beginners 👉 <strong>Mosh</strong> 
 - [JavaScript 2021 from zero to hero 👉 <strong>Osama Elzero</strong>](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) 
@@ -39,5 +38,10 @@
 - [Learn Object-Oriented Programming in JavaScript 👉 <strong>Educative</strong>](https://www.educative.io/courses/learn-object-oriented-programming-in-javascript)
 ## Learn Front-end framework
 ## Become a full-stack .Net developer  
+-  Pluralsight - Become a Full-stack .NET Developer - Beginner 👉 <strong>Mosh</strong> 
+-  Pluralsight - Become a Full-stack .NET Developer - Advanced Topics  👉 <strong>Mosh</strong> 
+-  Pluralsight - Become a Full-stack .NET Developer - Architecture and Testing 👉 <strong>Mosh</strong> 
 ## Learn Clean Architecture 
-
+- [Architecting ASP.NET Core Applications: Best Practices 👉 <strong>Gill Cleeren</strong>](https://app.pluralsight.com/library/courses/architecting-asp-dot-net-core-applications-best-practices/table-of-contents)
+- [C# Design Patterns: Mediator](https://app.pluralsight.com/library/courses/c-sharp-design-patterns-mediator/table-of-contents)
+- [Clean Architecture Solution Template](https://github.com/jasontaylordev/CleanArchitecture) 
